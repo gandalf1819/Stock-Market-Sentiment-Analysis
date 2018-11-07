@@ -49,13 +49,13 @@ As most of the research shows that ZeroR, Random Forest and Naïve Bayes classif
 ![emotions-graph](https://user-images.githubusercontent.com/22028693/48115217-2dd45d80-e230-11e8-9f26-f9b48e80fd74.png)
 
 ## Polarity Vs Date
-
+![1](https://user-images.githubusercontent.com/22028693/48115391-ba7f1b80-e230-11e8-936c-919f0c5953c2.png)
 
 ## Closing Price
-
+![2](https://user-images.githubusercontent.com/22028693/48115427-dbe00780-e230-11e8-8762-2bc14fb89a46.png)
 
 ## Average Price
-
+![3](https://user-images.githubusercontent.com/22028693/48115448-edc1aa80-e230-11e8-821a-9ba6603db26f.png)
 
 # Weka Analysis
 ## Results of Polarity Detection Algorithm for Test Dataset – April’17
