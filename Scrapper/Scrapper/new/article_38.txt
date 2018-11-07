@@ -1,0 +1,11 @@
+TipRanks, a service that ranks Wall Street, identified the best analysts covering the technology industry and found which stocks they like right now.
+
+We use a natural language processing algorithm to rank analysts based on two factors:
+
+Average return of buy-sell recommendations
+
+Success rate of buy-sell recommendations
+
+We combined the screener's insights with a database scan for the most popular tech stocks by top analysts in the last month.
+
+Here are five favorite stocks from the best-performing tech analysts:

@@ -1,0 +1,11 @@
+ID : Internal google security ID
+t : ticker
+e : exchange name
+l : last price
+ltt : last trade time/date
+c : change in CCY : change(%)
+el : last price in extended hours trading
+elt : last trade time in extended hours trading
+ec : extended hours change(%)
+
+

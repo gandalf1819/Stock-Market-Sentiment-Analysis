@@ -1,0 +1,23 @@
+#header libraries
+library(tm)		
+library(tm.plugin.webmining)
+
+#fetch article into variable 'googlefinance'
+googlefinance <- WebCorpus(GoogleFinanceSource("NASDAQ:MSFT"))
+
+#gives metadata
+googlefinance
+
+class(googlefinance)
+
+#get metadata of the article (author, datetimestamp, description, heading, id, language, origin)
+meta(googlefinance[[1]])
+
+#display only content of the article
+googlefinance[[1]]$content
+
+#store content from a plain html site into variable theVerge
+theVerge <- extractContentDOM("http://www.theverge.com/",0.5,FALSE)
+theVerge <- trimWhiteSpaces(theVerge)
+theVerge
+
