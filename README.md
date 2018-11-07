@@ -43,10 +43,10 @@ As most of the research shows that ZeroR, Random Forest and Naïve Bayes classif
 # Graph Analysis
 
 ## Sentiment Graph
-
+![sentiment-graph](https://user-images.githubusercontent.com/22028693/48115265-53616700-e230-11e8-9636-720df704bb37.png)
 
 ## Emotions Graph
-
+![emotions-graph](https://user-images.githubusercontent.com/22028693/48115217-2dd45d80-e230-11e8-9f26-f9b48e80fd74.png)
 
 ## Polarity Vs Date
 
