@@ -1,4 +1,7 @@
 # Stock-Market-Sentiment-Analysis
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 Identification of trends in the stock prices of a company by performing fundamental analysis of the company. News articles were provided as training data-sets to the model which classified the articles as positive or neutral. Sentiment score was computed by calculating the difference between positive and negative words present in the news article. Comparisons were made between the actual stock prices and the sentiment scores. Naive Bayes, OneR and Random Forest algorithms were used to observe the results of the model using Weka
 
 Stock Prices are considered to be very dynamic and susceptible to quick changes because of the underlying nature of the financial domain and in part because of the mix of known parameters (Previous Days Closing Price, P/E Ratio etc.) and unknown factors (like Election Results, Rumors etc.) An intelligent trader would predict the stock price and buy a stock before the price rises, or sell it before its value declines. Though it is very hard to replace the expertise that an experienced trader has gained, an accurate prediction algorithm can directly result into high profits for investment firms, indicating a direct relationship between the accuracy of the prediction algorithm and the profit made from using the algorithm.
@@ -144,3 +147,16 @@ As most of the research shows that ZeroR, Random Forest and Naïve Bayes classif
        10        1:?      2:pos       0.75 
        11        1:?      1:neg       0.51 
        12        1:?      2:pos       0.77 
+
+## Contributions
+
+Please feel free to create a Pull Request for adding implementations of the algorithms discussed in different frameworks or improving the existing implementations
+
+## Support
+
+If you found this useful, please consider starring(★) the repo so that it can reach a broader audience
+
+## License
+
+This project is licensed under the MIT License
+
