@@ -1,7 +1,6 @@
 # Stock-Market-Sentiment-Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![Python](https://upload.wikimedia.org/wikipedia/commons/3/34/Blue_Python_3.6_Shield_Badge.svg)
-[![Build Status](https://travis-ci.org/usgs/nwisweb-tableau-data-connector.svg?branch=master)](https://travis-ci.org/usgs/nwisweb-tableau-data-connector)
 
 
 ![Stock Market](https://github.com/gandalf1819/Stock-Market-Sentiment-Analysis/blob/master/stock-market.jpg)
