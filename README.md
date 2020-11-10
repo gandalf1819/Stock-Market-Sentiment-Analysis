@@ -2,6 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![Python](https://upload.wikimedia.org/wikipedia/commons/3/34/Blue_Python_3.6_Shield_Badge.svg)
 
+<p align="center">
+    <a href="https://www.buymeacoffee.com/wyavs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35px"></a>
+</p>
 
 ![Stock Market](https://github.com/gandalf1819/Stock-Market-Sentiment-Analysis/blob/master/stock-market.jpg)
 
